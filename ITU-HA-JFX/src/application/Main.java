@@ -1,5 +1,9 @@
-package application;
-	/* skusam pridaù*/
+package application; 
+
+
+/* Nie je tu teraz nejak vela miesta??? :) */
+
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.stage.Stage;
